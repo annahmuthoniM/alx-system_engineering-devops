@@ -1,0 +1,2 @@
+#!/bin/copy
+chown --from=guillaume betty hello
